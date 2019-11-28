@@ -15,3 +15,6 @@ h) Kakšne so še ostale možne ločljivosti pretvorbe in območja vrednosti?
  - 6 bit;  od 0 do 64
  - 10 bit; od 0 do 1024
  - 12 bit; od 0 do 4096
+
+# Komentar
+ARM mikroprocesor je sprogramiran tako, da izvede posamične ADC pretvorbe z izbranim potenciometrom.
